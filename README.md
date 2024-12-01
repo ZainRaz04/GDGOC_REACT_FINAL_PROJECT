@@ -1,2 +1,4 @@
-# GDGOC_REACT_FINAL_PROJECT
-This repository contains my FINAL_REACT_APP code in it.
+**Snap - Responsive Hero Section with Navbar and Footer**
+Snap is a responsive web application built with ReactJS and styled using TailwindCSS. It features a modern Hero Section, a navigation bar with dropdown menus, and a dynamic footer that adjusts its positioning based on the screen size. On desktop, the heading "Make remote work" is split into two lines, while the paragraph wraps into three lines. On mobile, the heading stays in a single line and the footer is positioned beneath the content, preventing overlap with the "Learn more" button. The application also includes interactive dropdowns in the navbar, with hover and focus states for smooth user interactions, and a footer showcasing client logos such as Databiz, Audiophile, Meet, and Maker. The project is fully responsive, ensuring a seamless user experience across all devices.
+
+Built using ReactJS for component-based architecture and TailwindCSS for responsive and utility-first styling, Snap is designed to be simple yet powerful. The app is hosted on Vercel, providing a fast and reliable platform for deployment. To get started, clone the repository, install dependencies, and run the project locally. To deploy, simply push your code to a GitHub repository and link it to Vercel for automatic deployment.
